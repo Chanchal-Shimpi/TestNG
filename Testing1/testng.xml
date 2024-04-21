@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TestNGExample.GoogleWithAssert"/>
+      <class name="TestNGExample.Example1SimpleTestNG"/>
+      <class name="TestNGExample.Example5InvocationCount"/>
+      <class name="TestNGExample.Example2CallingTC4"/>
+      <class name="TestNGExample.Example7CreateAccount"/>
+      <class name="TestNGExample.Orangehrm"/>
+      <class name="TestNGExample.Example4False"/>
+      <class name="TestNGExample.Example3Priority"/>
+      <class name="TestNGExample.Assignment"/>
+      <class name="TestNGExample.OrangehrmwithAssert"/>
+      <class name="TestNGExample.Example6Exception"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
